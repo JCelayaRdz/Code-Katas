@@ -8,3 +8,6 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 
 ## 6 kyu
 * [Multiplication Table](./6kyu/Multiplication-Table.py) - [Link](https://www.codewars.com/kata/multiplication-table)
+
+## 5kyu
+* [Vector-Class](./5kyu/vector.py) - [Link](https://www.codewars.com/kata/vector-class)
