@@ -1,14 +1,12 @@
 def validate(number):
-    digits = [int(i) for i in str(number)]
-    digits = [i for i in reversed(digits)]
+    digits = [int(i) for i in reversed(str(number))]
     for index,digit in enumerate(digits,1):
-        print(index,digits)
         if index % 2 == 0:
-            powed = digit * 2
-            if powed < 9:
-                digits[index - 1] = powed
+            new_digit = digit * 2
+            if new_digit < 9:
+                digits[index - 1] = new_digit
             else:
-                digits[index - 1] = sum([int(i) for i in str(powed)])
+                digits[index - 1] = sum([int(i) for i in str(new_digit)])
     return sum(digits) % 10 == 0
 
 
