@@ -4,6 +4,7 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 
 ## 8kyu
 * [Square(n) Sum](./8kyu/SquareSum.scala) - [Link](https://www.codewars.com/kata/square-n-sum)
+* [Beginner - Reduce but Grow](./8kyu/ReduceGrow.scala) - [Link](https://www.codewars.com/kata/beginner-reduce-but-grow)
 
 ## 7kyu
 * [Character from ASCII value](./7kyu/ascii-value.py) - [Link](https://www.codewars.com/kata/get-character-from-ascii-value)
