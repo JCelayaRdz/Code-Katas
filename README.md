@@ -9,11 +9,13 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 * [Character from ASCII value](./7kyu/ascii-value.py) - [Link](https://www.codewars.com/kata/get-character-from-ascii-value)
 * [Move 10](./7kyu/move-10.py) - [Link](https://www.codewars.com/kata/move-10)
 * [Sum of a sequence](./7kyu/sequence-sum.py) - [Link](https://www.codewars.com/kata/sum-of-a-sequence)
+* [String matchup](./7kyu/string-matchup.py) - [Link](https://www.codewars.com/kata/string-matchup)
 
 ## 6 kyu
 * [Multiplication Table](./6kyu/Multiplication-Table.py) - [Link](https://www.codewars.com/kata/multiplication-table)
 * [Validate Credit Card Number](./6kyu/credit-card.py) - [Link](https://www.codewars.com/kata/validate-credit-card-number)
 * [Stop gninnipS My sdroW!](./6kyu/SpinningWords.scala) - [Link](https://www.codewars.com/kata/stop-gninnips-my-sdrow)
+<!-- * [Decode the Morse code](./6kyu/MorseCode.scala) - [Link](https://www.codewars.com/kata/decode-the-morse-code) -->
 
 ## 5kyu
 * [Vector Class](./5kyu/vector.py) - [Link](https://www.codewars.com/kata/vector-class)
