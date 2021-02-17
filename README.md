@@ -8,7 +8,7 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 ## 7kyu
 * [Character from ASCII value](./7kyu/ascii-value.py) - [Link](https://www.codewars.com/kata/get-character-from-ascii-value)
 * [Move 10](./7kyu/move-10.py) - [Link](https://www.codewars.com/kata/move-10)
-<!-- TODO: https://www.codewars.com/kata/sum-of-a-sequence --->
+* [Sum of a sequence](./7kyu/sequence-sum.py) - [Link](https://www.codewars.com/kata/sum-of-a-sequence)
 
 ## 6 kyu
 * [Multiplication Table](./6kyu/Multiplication-Table.py) - [Link](https://www.codewars.com/kata/multiplication-table)
