@@ -11,7 +11,7 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 * [Move 10](./7kyu/move-10.py) - [Link](https://www.codewars.com/kata/move-10)
 * [Sum of a sequence](./7kyu/sequence-sum.py) - [Link](https://www.codewars.com/kata/sum-of-a-sequence)
 * [String matchup](./7kyu/string-matchup.py) - [Link](https://www.codewars.com/kata/string-matchup)
-<!-- * https://www.codewars.com/kata/ordered-count-of-characters-->
+* [Evens and Odds](./7kyu/evens-odds.py) - [Link](https://www.codewars.com/kata/evens-and-odds)
 
 ## 6 kyu
 * [Multiplication Table](./6kyu/Multiplication-Table.py) - [Link](https://www.codewars.com/kata/multiplication-table)
@@ -21,4 +21,3 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 ## 5kyu
 * [Vector Class](./5kyu/vector.py) - [Link](https://www.codewars.com/kata/vector-class)
 * [Memoized Fibonacci](./5kyu/memoized-fibonnaci.py) - [Link](https://www.codewars.com/kata/memoized-fibonacci)
-<!--- TODO: VALIDATE PARENTHESES --->
