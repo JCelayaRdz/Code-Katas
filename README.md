@@ -21,3 +21,4 @@ In this page the Katas have different levels of difficulty, going from 8kyu (the
 ## 5kyu
 * [Vector Class](./5kyu/vector.py) - [Link](https://www.codewars.com/kata/vector-class)
 * [Memoized Fibonacci](./5kyu/memoized-fibonnaci.py) - [Link](https://www.codewars.com/kata/memoized-fibonacci)
+* [Simple Pig Latin](./5kyu/piglatin.py) - [Link](https://www.codewars.com/kata/simple-pig-latin)
